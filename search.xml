@@ -4,6 +4,25 @@
   
     
     <entry>
+      <title>支持GTA3，GTAVC，GTASA，GTAIV的字幕GXT工具</title>
+      <link href="/2024/07/07/%E6%94%AF%E6%8C%81GTA3%EF%BC%8CGTAVC%EF%BC%8CGTASA%EF%BC%8CGTAIV%E7%9A%84%E5%AD%97%E5%B9%95GXT%E5%B7%A5%E5%85%B7/"/>
+      <url>/2024/07/07/%E6%94%AF%E6%8C%81GTA3%EF%BC%8CGTAVC%EF%BC%8CGTASA%EF%BC%8CGTAIV%E7%9A%84%E5%AD%97%E5%B9%95GXT%E5%B7%A5%E5%85%B7/</url>
+      
+        <content type="html"><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><h1 id="支持GTA3，GTAVC，GTASA，GTAIV的字幕GXT工具"><a href="#支持GTA3，GTAVC，GTASA，GTAIV的字幕GXT工具" class="headerlink" title="支持GTA3，GTAVC，GTASA，GTAIV的字幕GXT工具"></a>支持GTA3，GTAVC，GTASA，GTAIV的字幕GXT工具</h1><h2 id="介绍"><a href="#介绍" class="headerlink" title="介绍"></a>介绍</h2><p>本工具以<a href="https://github.com/CookiePLMonster/GXT-Extractor">Silent的源代码</a>为基础，加入了可视化界面以及添加了其他GTA版本的支持。 </p><p>对于<strong>GTA3</strong>版本的GXT文件，由于没有表，故程序不会输出GTA3的分文本，仅输出集成文本。<br><strong>GTAVC、SA、IV</strong>版本的GXT皆会输出集成文本和分文本。    </p><p>工具内集成了码表转换功能，方便解析GXT时遇到二次转换的需求。</p><h2 id="较于其他工具"><a href="#较于其他工具" class="headerlink" title="较于其他工具"></a>较于其他工具</h2><ul><li><input checked="" disabled="" type="checkbox"> 支持Unicode</li><li><input checked="" disabled="" type="checkbox"> 拥有可视化界面</li><li><input checked="" disabled="" type="checkbox"> 支持版本更全面</li><li><input checked="" disabled="" type="checkbox"> 可使用码表转换</li><li><input checked="" disabled="" type="checkbox"> 符合生成的格式</li><li><input checked="" disabled="" type="checkbox"> GUI拖动输入和命令行输入</li></ul><h2 id="安装"><a href="#安装" class="headerlink" title="安装"></a>安装</h2><p>运行<strong>Python源代码</strong>或者安装<strong>应用程序</strong><br><strong>源代码</strong>：<a href="https://github.com/Lzh102938/III.VC.SAGXTExtracter">https://github.com/Lzh102938/III.VC.SAGXTExtracter</a><br><strong>应用程序</strong>：<a href="https://github.com/Lzh102938/III.VC.SAGXTExtracter/releases/tag/V1.2.5">https://github.com/Lzh102938/III.VC.SAGXTExtracter/releases/tag/V1.2.5</a></p><h2 id="关于"><a href="#关于" class="headerlink" title="关于"></a>关于</h2><p>版本号：Release Version 1.2.5<br>更新日期：2024年7月6日<br>本软件由「Lzh10_慕黑」创作，隶属「GTAmod中文组」<br>借用GitHub上开源GXT解析代码        </p><p>温馨提示：仅支持III、VC、SA、IV版本GXT解析</p><p>此工具完全免费且开源，若通过付费渠道获取均为盗版！<br>若您是盗版受害者，联系QQ：235810290</p><p>免责声明：使用本软件导致的版权问题概不负责！</p><p>开源&amp;检测更新：<a href="https://github.com/Lzh102938/III.VC.SAGXTExtracter">https://github.com/Lzh102938/III.VC.SAGXTExtracter<br/><br/></a></p><p><strong>更新日志</strong>：  </p><p>☆☆☆☆☆☆☆★★★★★★★★★★★☆☆☆☆☆☆☆</p><ul><li>V1.2.5 优化GUI，为按钮显示注释；并添加另存为文本和清除表格功能</li><li>V1.2.4A 添加针对GTAIV的GXT解析</li><li>V1.2.4 添加针对GTAIV的GXT解析（不包括中文）</li><li>V1.2.3 优化GUI，按钮变为圆角设计，添加文件拖入窗口输入操作</li><li>V1.2.2 添加功能，实现提取文本进行码表转换功能</li><li>V1.2.1 重构GUI，可自由改变窗口大小分辨率</li><li>V1.2   修复了命令行输入导致输入路径错误问题，支援GTA3</li><li>V1.1   添加了TABLE分文本功能  </li></ul><p>☆☆☆☆☆☆☆★★★★★★★★★★★☆☆☆☆☆☆☆</p>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 工具 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>汉化公开QQ群</title>
       <link href="/2024/05/12/%E6%B1%89%E5%8C%96%E5%85%AC%E5%BC%80QQ%E7%BE%A4/"/>
       <url>/2024/05/12/%E6%B1%89%E5%8C%96%E5%85%AC%E5%BC%80QQ%E7%BE%A4/</url>
